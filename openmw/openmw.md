@@ -3,6 +3,7 @@
 My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a [collection](https://next.nexusmods.com/) on [Nexusmods](https://www.nexusmods.com/skyrimspecialedition) with this modlist and maybe a [Wabbajack](https://www.wabbajack.org/) modlist. Contact me at jaume.alcazo@gmail.com
 
 <img src="logo.png">
+(Tamriel Rebuilt image)
 
 # Essential (many mods need these)
 
