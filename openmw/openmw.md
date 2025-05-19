@@ -156,9 +156,9 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 
 | Number | Mod | Brief explanation | Spanish translation | Video review |
 |----------|----------|----------|----------|----------|
-| 1 | [Kogoruhn - Extinct City of Ash and Sulfur](https://www.nexusmods.com/morrowind/mods/51615) | While wandering through the desolated landscapes of northern ashlands, Nerevarine comes across the old capital city of Chimer tribe - once known as Kogoruhn. This ancient place, half burried beneath the ash and sulfur is now home of horror which never sleeps... The Sixth House. Discover this terryfying place hidden under the shadow of Red Mountain. | todo | :tv: [Review by DarkElfGuy](https://www.youtube.com/watch?v=OxNOKW2xrog) |
+| 1 | [Kogoruhn - Extinct City of Ash and Sulfur](https://www.nexusmods.com/morrowind/mods/51615) | The Nerevarine discovers Kogoruhn, the ancient Chimer capital, now a buried ruin overtaken by the Sixth House's horrors beneath Red Mountain's shadow. | todo | :tv: [Review by DarkElfGuy](https://www.youtube.com/watch?v=OxNOKW2xrog) |
 | 2 | [Terror of Tel Amur](https://www.nexusmods.com/morrowind/mods/53673) | Adds a series of heists and a quest to investigate a mysterious new tower deep in the Molag Amur wilderness. | todo | :tv: [Review by DarkElfGuy](https://www.youtube.com/watch?v=7QCnRgTV6LU) |
-| Total in this category: | 0 mods | | |
+| Total in this category: | 2 mods | | |
 
 # Grim and Gore
 
