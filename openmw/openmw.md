@@ -155,6 +155,7 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 
 | Number | Mod | Brief explanation | Spanish translation | Video review |
 |----------|----------|----------|----------|----------|
+| 1 | [Kogoruhn - Extinct City of Ash and Sulfur](https://www.nexusmods.com/morrowind/mods/51615) | While wandering through the desolated landscapes of northern ashlands, Nerevarine comes across the old capital city of Chimer tribe - once known as Kogoruhn. This ancient place, half burried beneath the ash and sulfur is now home of horror which never sleeps... The Sixth House. Discover this terryfying place hidden under the shadow of Red Mountain. | todo | :tv: [Review by DarkElfGuy](https://www.youtube.com/watch?v=OxNOKW2xrog) |
 | Total in this category: | 0 mods | | |
 
 # Grim and Gore
