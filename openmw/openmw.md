@@ -184,6 +184,7 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 
 # Quests
 
-| Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|
-| Total in this category: | 0 mods | | |
+| Number | Mod | Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| 1 | [The Guiding Guild - Dune Inspired Guild Guides](https://www.nexusmods.com/morrowind/mods/54750) | Gameplay, quest and faction mod. | todo | :tv: [Review by DarkElfGuy here](https://www.youtube.com/watch?v=cf1HmwOQYMc) |
+| Total in this category: | 1 mods | | |
