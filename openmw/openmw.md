@@ -159,7 +159,8 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 | 1 | [Kogoruhn - Extinct City of Ash and Sulfur](https://www.nexusmods.com/morrowind/mods/51615) | The Nerevarine discovers Kogoruhn, the ancient [Chimer](https://elderscrolls.fandom.com/wiki/Chimer) capital, now a buried ruin overtaken by the [Sixth House's](https://en.uesp.net/wiki/Morrowind:Sixth_House) horrors beneath Red Mountain's shadow. | todo | :tv: [Review by DarkElfGuy](https://www.youtube.com/watch?v=OxNOKW2xrog) |
 | 2 | [Terror of Tel Amur](https://www.nexusmods.com/morrowind/mods/53673) | Adds a series of heists and a quest to investigate a mysterious new tower deep in the Molag Amur wilderness. | todo | :tv: [Review by DarkElfGuy](https://www.youtube.com/watch?v=7QCnRgTV6LU) |
 | 3 | [Daedric Shrine Overhaul Vaermina](https://www.nexusmods.com/morrowind/mods/53242) | Turns Kushtashpi into a shrine to Vaermina (instead of Molag Bal) | todo | [Review by DarkElfGuy](https://www.youtube.com/watch?v=2MKpwBbTQ_k) |
-| Total in this category: | 3 mods | | |
+| 4 | [Sea Forts of Morrowind](https://www.nexusmods.com/morrowind/mods/54700) | 4 Regions, 4 Themes, 4 Sea Forts! Above the wave's upon the horizon sits a Sea Fortress, these act as mini dungeons for plundering, which sit a good swim away. Don't forget to use those ladders! | todo | :tv: [Review by DarkElfGuy](https://www.youtube.com/watch?v=GgQY-rGqEAE&t=1s) |
+| Total in this category: | 4 mods | | |
 
 # Grim and Gore
 
