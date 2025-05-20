@@ -189,4 +189,5 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 | Number | Mod | Brief explanation | Spanish translation | Video review |
 |----------|----------|----------|----------|----------|
 | 1 | [The Guiding Guild - Dune Inspired Guild Guides](https://www.nexusmods.com/morrowind/mods/54750) | Gameplay, quest and faction mod. | todo | :tv: [Review by DarkElfGuy here](https://www.youtube.com/watch?v=cf1HmwOQYMc) |
-| Total in this category: | 1 mods | | |
+| 2 | [Dawnbreaker - The Lady of Light](https://www.nexusmods.com/morrowind/mods/52162) | This mod adds in Dawnbreaker as well as a full quest with a unique and lore friendly story, new npcs, and a shrine to Meridia. | todo | :tv: [Review by DarkElfGuy here](https://www.youtube.com/watch?v=TGRjTKEbt3Y) |
+| Total in this category: | 2 mods | | |
