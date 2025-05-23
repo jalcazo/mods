@@ -207,7 +207,7 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 |----------|----------|----------|
 | Total in this category: | 0 mods | | |
 
-# Quests
+# 🧭 Quests
 
 | Number | Mod | Brief explanation | Spanish translation | Video review |
 |----------|----------|----------|----------|----------|
@@ -216,4 +216,5 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 | 3 | [A Lovers' Quarrel](https://www.nexusmods.com/morrowind/mods/52679) | Quest for Tamriel Rebuilt about a marital dispute in Necrom. | todo | :tv: [Review by DarkElfGuy here](https://www.youtube.com/watch?v=RA1OBNSVjY0) |
 | 4 | [The Tri-Angled Truth](https://www.nexusmods.com/morrowind/mods/54722) |Work for the Center for Provincial Religious Studies in Caldera to uncover the mystery of the Prophet Veloth and learn the Tri-Angled Truth. Are you enlightened enough to get the opportunity to read Veloth's greatest teaching? Adds achievements too. | todo | todo |
 | 5 | [Lord of Rebirth](https://www.nexusmods.com/morrowind/mods/53680) | todo | todo | :tv: [Morrowind Mod of the Day - Lord of Rebirth Showcase](https://www.youtube.com/watch?v=-CWRVFatXNU) |
-| Total in this category: | 5 mods | | |
+| 6 | [Ius the Animal God](https://www.nexusmods.com/morrowind/mods/52837) | Ius the Animal God has a questline full of adventure, drama, comedy, and romance, not to mention an artifact weapon, a companion, and more! | todo | :tv: [Morrowind Mod of the Day - Ius - The Animal God Showcase](https://www.youtube.com/watch?v=K5Xz4CX-Rc0) |
+| Total in this category: | 6 mods | | |
