@@ -184,6 +184,12 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 | 9 | [Hammerfell Ansei Warrior Armour](https://www.nexusmods.com/morrowind/mods/53822) | Dungeon and armor mod. | todo | :tv: [Morrowind Mod of the Day - Hammerfell Ansei Armor Showcase](https://www.youtube.com/watch?v=1ww2Yj2LkuM) |
 | Total in this category: | 9 mods | | |
 
+# Dwemer ruins (subcategory of dungeons)
+
+| Number | Mod | Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| 1 | [BDI - Nchuleft](https://www.nexusmods.com/morrowind/mods/52916) | requires Better Dwemer Interiors | todo | :tv: [Morrowind Mod of the Day - Nchuleft Rebuilt 2023 Showcase](https://www.youtube.com/watch?v=3C35CGXsd7I) |
+| Total in this category: | 1 mod | | |
 
 # Interiors
 
@@ -227,4 +233,5 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 | 5 | [Lord of Rebirth](https://www.nexusmods.com/morrowind/mods/53680) | todo | todo | :tv: [Morrowind Mod of the Day - Lord of Rebirth Showcase](https://www.youtube.com/watch?v=-CWRVFatXNU) |
 | 6 | [Ius the Animal God](https://www.nexusmods.com/morrowind/mods/52837) | Ius the Animal God has a questline full of adventure, drama, comedy, and romance, not to mention an artifact weapon, a companion, and more! | todo | :tv: [Morrowind Mod of the Day - Ius - The Animal God Showcase](https://www.youtube.com/watch?v=K5Xz4CX-Rc0) |
 | 7 | [The Vanishing Ash-chirps - A Quest Mod](https://www.nexusmods.com/morrowind/mods/52870) | Deep in the Grazelands, a Khajiit scholar has gone missing while studying the mysterious Ashlander culture. Rumors suggest she sought out a reclusive hermit for answers. Can you unravel the secrets she uncovered? | todo | :tv: [Morrowind Mod of the Day - The Vanishing Ash-Chirps Showcase](https://www.youtube.com/watch?v=XnrDLa8317Y) |
-| Total in this category: | 7 mods | | |
+| 8 | [Goldbrand Reforged - The Quest for Eltonbrand](https://www.nexusmods.com/morrowind/mods/52277) | Brave the dangers of Vvardenfell in this lore-friendly quest mod to reforge Goldbrand into the mysterious Eltonbrand. Speak to Sirilonwe in the Vivec Mages Guild while carrying Goldbrand to begin the quest. Part of the 2023 Winter Modjam. | todo | :tv: [Morrowind Mod of the Day - Goldbrand Reforged Showcase](https://www.youtube.com/watch?v=p5x4l1MYMnw) |
+| Total in this category: | 8 mods | | |
