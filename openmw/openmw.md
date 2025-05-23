@@ -52,6 +52,15 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 |----------|----------|----------|----------|----------|
 | Total in this category: | 0 mods | | |
 
+# OAAB
+
+| Number | Mod |  Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| 1 | [OAAB Greater Samarys Tomb](https://www.nexusmods.com/morrowind/mods/52781) | This is a long overdue update to my Greater Samarys mod from 2016. Expands on the original mod, adds new encounters, fixes bugs, and adds a few other features. Now requires OAAB_Data. | todo | :tv: [Morrowind Mod of the Day - Greater Samarys Showcase](https://www.youtube.com/watch?v=cybL1flRP-g) |
+| Total in this category: | 1 mod | | |
+
+
+
 
 # Combat
 
