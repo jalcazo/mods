@@ -25,6 +25,14 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 |----------|----------|----------|----------|
 | Total in this category: | 0 mods | | |
 
+# Gameplay
+
+| Number | Mod |  Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| 1 | [Protective Guards (OpenMW)](https://www.nexusmods.com/morrowind/mods/46992) | todo | todo | same vid as below, merge cells |
+| 2 | [Protective Guards - Factions and NPCs Protections (OpenMW)](https://www.nexusmods.com/morrowind/mods/54858?tab=files&file_id=1000052819&nmm=1) | Expansion/refinement of Protective Guards (needs original). OpenMW. | todo | [Morrowind Mod of the Day - Protective Guards Showcase](https://www.youtube.com/watch?v=bcwN81_UAU4) |
+| Total in this category: | 2 mods | | |
+
 # Meshes
 
 | Number | Mod |  Brief explanation | Spanish translation | Video review |
