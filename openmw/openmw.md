@@ -160,7 +160,7 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 |----------|----------|----------|
 | Total in this category: | 0 mods | | |
 
-# ⛓️ Dungeons ⛓️
+# ⛓️ Dungeons
 
 | Number | Mod | Brief explanation | Spanish translation | Video review |
 |----------|----------|----------|----------|----------|
@@ -172,7 +172,8 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 | 6 | [AATL_Data](https://www.nexusmods.com/morrowind/mods/50647) | requiered by undercity | todo | no |
 | 7 | [Skeeve Den Cult of Namira](https://www.nexusmods.com/morrowind/mods/52953) | A new Daedric dungeon built within the depths of a blightened egg mine. | todo | ? |
 | 8 | [Sea Forts of Morrowind](https://www.nexusmods.com/morrowind/mods/54700) | Compatible with Tamriel Rebuilt and Waters of Morrowind. | todo | [Morrowind Mod of the Day - Sea Forts of Morrowind Showcase](https://www.youtube.com/watch?v=GgQY-rGqEAE) |
-| Total in this category: | 8 mods | | |
+| 9 | [Hammerfell Ansei Warrior Armour](https://www.nexusmods.com/morrowind/mods/53822) | Dungeon and armor mod. | todo | :tv: [Morrowind Mod of the Day - Hammerfell Ansei Armor Showcase](https://www.youtube.com/watch?v=1ww2Yj2LkuM) |
+| Total in this category: | 9 mods | | |
 
 # Grim and Gore
 
