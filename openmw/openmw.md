@@ -195,4 +195,5 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 | 1 | [The Guiding Guild - Dune Inspired Guild Guides](https://www.nexusmods.com/morrowind/mods/54750) | Gameplay, quest and faction mod. | todo | :tv: [Review by DarkElfGuy here](https://www.youtube.com/watch?v=cf1HmwOQYMc) |
 | 2 | [Dawnbreaker - The Lady of Light](https://www.nexusmods.com/morrowind/mods/52162) | This mod adds in Dawnbreaker as well as a full quest with a unique and lore friendly story, new npcs, and a shrine to Meridia. | todo | :tv: [Review by DarkElfGuy here](https://www.youtube.com/watch?v=TGRjTKEbt3Y) |
 | 3 | [A Lovers' Quarrel](https://www.nexusmods.com/morrowind/mods/52679) | Quest for Tamriel Rebuilt about a marital dispute in Necrom. | todo | :tv: [Review by DarkElfGuy here](https://www.youtube.com/watch?v=RA1OBNSVjY0) |
-| Total in this category: | 3 mods | | |
+| 4 | [The Tri-Angled Truth](https://www.nexusmods.com/morrowind/mods/54722) |Work for the Center for Provincial Religious Studies in Caldera to uncover the mystery of the Prophet Veloth and learn the Tri-Angled Truth. Are you enlightened enough to get the opportunity to read Veloth's greatest teaching? Adds achievements too. | todo | todo |
+| Total in this category: | 4 mods | | |
