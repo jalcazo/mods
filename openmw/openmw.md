@@ -171,7 +171,8 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 | 5 | [UnderCity](https://www.nexusmods.com/morrowind/mods/54773) | An overhaul of Old Mournhold, as well as the Dwemer and Daedric ruins beneath. | todo | :tv: [Review by DarkElfGuy](https://www.youtube.com/watch?v=knO9fSZd7xg) |
 | 6 | [AATL_Data](https://www.nexusmods.com/morrowind/mods/50647) | requiered by undercity | todo | no |
 | 7 | [Skeeve Den Cult of Namira](https://www.nexusmods.com/morrowind/mods/52953) | A new Daedric dungeon built within the depths of a blightened egg mine. | todo | ? |
-| Total in this category: | 7 mods | | |
+| 8 | [Sea Forts of Morrowind](https://www.nexusmods.com/morrowind/mods/54700) | Compatible with Tamriel Rebuilt and Waters of Morrowind. | todo | [Morrowind Mod of the Day - Sea Forts of Morrowind Showcase](https://www.youtube.com/watch?v=GgQY-rGqEAE) |
+| Total in this category: | 8 mods | | |
 
 # Grim and Gore
 
