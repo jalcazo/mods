@@ -25,6 +25,15 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 |----------|----------|----------|----------|
 | Total in this category: | 0 mods | | |
 
+# Landscape
+
+| Number | Mod |  Brief explanation | Spanish translation |
+|----------|----------|----------|----------|
+| 1 | [Salothran Beacon](https://www.nexusmods.com/morrowind/mods/52253) | Requires Rocky West Gash. | todo | :tv: [Morrowind Mod of the Day - Salothran Beacon Showcase](https://www.youtube.com/watch?v=-putcW_vO-8) |
+| 2 | [Rocky West Gash](https://www.nexusmods.com/morrowind/mods/50109) | This mod makes West Gash more rocky. | todo | todo |
+| Total in this category: | 2 mods | | |
+
+
 # Gameplay
 
 | Number | Mod |  Brief explanation | Spanish translation | Video review |
