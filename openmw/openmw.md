@@ -182,7 +182,8 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 | 7 | [Skeeve Den Cult of Namira](https://www.nexusmods.com/morrowind/mods/52953) | A new Daedric dungeon built within the depths of a blightened egg mine. | todo | ? |
 | 8 | [Sea Forts of Morrowind](https://www.nexusmods.com/morrowind/mods/54700) | Compatible with Tamriel Rebuilt and Waters of Morrowind. | todo | [Morrowind Mod of the Day - Sea Forts of Morrowind Showcase](https://www.youtube.com/watch?v=GgQY-rGqEAE) |
 | 9 | [Hammerfell Ansei Warrior Armour](https://www.nexusmods.com/morrowind/mods/53822) | Dungeon and armor mod. | todo | :tv: [Morrowind Mod of the Day - Hammerfell Ansei Armor Showcase](https://www.youtube.com/watch?v=1ww2Yj2LkuM) |
-| Total in this category: | 9 mods | | |
+| 10 | [Mamaea Awakened](https://www.nexusmods.com/morrowind/mods/46096) | Remake of a vanilla dungeon. | todo | :tv: [Morrowind Mod of the Day - Mamaea Awakened Showcase](https://www.youtube.com/watch?v=5Ux0Q6jLDaY) |
+| Total in this category: | 10 mods | | |
 
 # Dwemer ruins (subcategory of dungeons)
 
