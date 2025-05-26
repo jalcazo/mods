@@ -7,29 +7,29 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 
 # Essential (many mods need these)
 
-| Number | Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|----------|
+| Number | Mod |  Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
 | Total in this category: | 0 mods | | |
 
 # Fixes/helpers
 
-| Number | Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|----------|
+| Number | Mod |  Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
 | Total in this category: | 0 mods | | |
 
 <img src="img/fixes/recursion_monitor1.jpg"> <img src="img/fixes/recursion_monitor2.jpg">
 
 # Forts
 
-| Number | Mod |  Brief explanation | Spanish translation |
-|----------|----------|----------|----------|
+| Number | Mod |  Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
 | 1 | [Fort Ghostmoth](https://www.nexusmods.com/morrowind/mods/52300) | Adds a Fort to a vanilla empty island. | todo | :tv: [Morrowind Mod of the Day - Fort Ghostmoth Showcase](https://www.youtube.com/watch?v=xdeM3wQJ4aE) |
 | Total in this category: | 1 mod | | |
 
 # 🏔️ Landscape
 
-| Number | Mod |  Brief explanation | Spanish translation |
-|----------|----------|----------|----------|
+| Number | Mod |  Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
 | 1 | [Salothran Beacon](https://www.nexusmods.com/morrowind/mods/52253) | Requires Rocky West Gash. | todo | :tv: [Morrowind Mod of the Day - Salothran Beacon Showcase](https://www.youtube.com/watch?v=-putcW_vO-8) |
 | 2 | [Rocky West Gash](https://www.nexusmods.com/morrowind/mods/50109) | This mod makes West Gash more rocky. | todo | todo |
 | 3 | [Markgran Forest (Maar Gan Forest)](https://www.nexusmods.com/morrowind/mods/53627) | Adds a mushroom forest. | todo | :tv: [Morrowind Mod of the Day - Maar Gan Forest Showcase](https://www.youtube.com/watch?v=NBBfSkuVHvQ) |
