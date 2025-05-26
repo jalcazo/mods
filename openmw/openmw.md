@@ -19,11 +19,12 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 
 <img src="img/fixes/recursion_monitor1.jpg"> <img src="img/fixes/recursion_monitor2.jpg">
 
-# Armor, armors
+# Forts
 
 | Number | Mod |  Brief explanation | Spanish translation |
 |----------|----------|----------|----------|
-| Total in this category: | 0 mods | | |
+| 1 | [Fort Ghostmoth](https://www.nexusmods.com/morrowind/mods/52300) | Adds a Fort to a vanilla empty island. | todo | :tv: [Morrowind Mod of the Day - Fort Ghostmoth Showcase](https://www.youtube.com/watch?v=xdeM3wQJ4aE) |
+| Total in this category: | 1 mod | | |
 
 # Landscape
 
@@ -250,3 +251,9 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 | 10 | [The Reclamation of Hasimminus Mine](https://www.nexusmods.com/morrowind/mods/46095) | Crawl through treacherous mine shafts, face Sixth House Cultists, and build up a town for your Great House! New quests, people, and town! | todo | :tv: [Morrowind Mod of the Day - Reclaiming Hasimminus Mine Showcase](https://www.youtube.com/watch?v=KWz910iQ8HM) |
 | 11 | [Dissident Ordinators](https://www.nexusmods.com/morrowind/mods/52874) | What if a group of outcast Ordinators decided to join the Dissident Priests? This mod makes this interesting possibility come true by bringing Dissident Ordinators into the game. Features special armor and weapon, a micro-quest with unique dialogue, and an immersive addition to the Ministry of Truth. | todo | :tv: [Morrowind Mod of the Day - Dissident Ordinators Showcase](https://www.youtube.com/watch?v=xdeM3wQJ4aE) |
 | Total in this category: | 11 mods | | |
+
+# Armor, armors
+
+| Number | Mod |  Brief explanation | Spanish translation |
+|----------|----------|----------|----------|
+| Total in this category: | 0 mods | | |
