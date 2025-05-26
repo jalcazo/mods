@@ -69,7 +69,8 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 | 2 | [Vassamsi Island](https://www.nexusmods.com/morrowind/mods/52768) | Overhaul of a vanilla island, using OAAB Data | todo | :tv: [Morrowind Mod of the Day - Vassamsi Island Showcase](https://www.youtube.com/watch?v=XAMpsrgaiy0) |
 | 3 | [URH - Ald Velothi](https://www.nexusmods.com/morrowind/mods/51590) | An overhaul of the Ald Velothi outpost to give it a unique look. | Not needed. | :tv: [Morrowind Mod of the Day - Redoran Ald Velothi & Khuul Showcase](https://www.youtube.com/watch?v=JYCMGi7Tg0A) |
 | 4 | [URH - Khuul](https://www.nexusmods.com/morrowind/mods/51761) | Overhauls Thongar's Tradehouse in Khuul to be more unique. | todo | :tv: [Morrowind Mod of the Day - Redoran Ald Velothi & Khuul Showcase](https://www.youtube.com/watch?v=JYCMGi7Tg0A) | 
-| Total in this category: | 4 mods | | |
+| 5 | [Moody Magas Volar](https://www.nexusmods.com/morrowind/mods/49789) | Overhauls a vanilla dungeon. | todo | :tv: [Morrowind Mod of the Day - Moody Magas Volar Showcase](https://www.youtube.com/watch?v=LUhNuSqXMpE) |
+| Total in this category: | 5 mods | | |
 
 # Combat
 
