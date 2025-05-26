@@ -235,6 +235,13 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 |----------|----------|----------|
 | Total in this category: | 0 mods | | |
 
+# Towns, cities, locations
+
+| Number | Mod | Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| 1 | [Dallara Bal Isra](https://www.nexusmods.com/morrowind/mods/52054) | Overhaul of vanilla town. | todo | :tv: [Morrowind Mod of the Day - Dallara Bal Isra Showcase](https://www.youtube.com/watch?v=zR3kMMbA_kY) |
+| Total in this category: | 1 mod | | |
+
 # 🧭 Quests
 
 | Number | Mod | Brief explanation | Spanish translation | Video review |
