@@ -195,7 +195,8 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 | 9 | [Hammerfell Ansei Warrior Armour](https://www.nexusmods.com/morrowind/mods/53822) | Dungeon and armor mod. | todo | :tv: [Morrowind Mod of the Day - Hammerfell Ansei Armor Showcase](https://www.youtube.com/watch?v=1ww2Yj2LkuM) |
 | 10 | [Mamaea Awakened](https://www.nexusmods.com/morrowind/mods/46096) | Remake of a vanilla dungeon. | todo | :tv: [Morrowind Mod of the Day - Mamaea Awakened Showcase](https://www.youtube.com/watch?v=5Ux0Q6jLDaY) |
 | 11 | [Tall Dungeons](https://www.nexusmods.com/morrowind/mods/53318) | Makes some Dwemer and Daedric ruins easier to see from a distance by adding height. | todo | :tv: [Morrowind Mod of the Day - Tall Dungeons Showcase](https://www.youtube.com/watch?v=U0myaZTkljA) |
-| Total in this category: | 11 mods | | |
+| 12 | [Heran Ancestral Tomb Overhaul](https://www.nexusmods.com/morrowind/mods/53311) | Overhauls and slightly expands Heran Ancestral Tomb. | todo | :tv: [Morrowind Mod of the Day - Heran Ancestral Tomb Showcase](https://www.youtube.com/watch?v=AmQT0F1M4uY) |
+| Total in this category: | 12 mods | | |
 
 # Dwemer ruins (subcategory of dungeons)
 
