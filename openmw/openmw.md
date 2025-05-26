@@ -17,7 +17,12 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 |----------|----------|----------|----------|----------|
 | Total in this category: | 0 mods | | |
 
-<img src="img/fixes/recursion_monitor1.jpg"> <img src="img/fixes/recursion_monitor2.jpg">
+# 🏠 Player homes / houses / shacks
+
+| Number | Mod |  Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| 1 | [Draggle-Tail Shack](https://www.nexusmods.com/morrowind/mods/53305) | Help a dunmer to get some money for his travels by buying his shack in the Bitter Coast. But why is he in such a hurry to get rid of it? | todo | :tv: [Morrowind Mod of the Day - Draggle-Tail Shack Showcase](https://www.youtube.com/watch?v=0IzMLiBpoj4) |
+| Total in this category: | 1 mod | | |
 
 # Forts
 
