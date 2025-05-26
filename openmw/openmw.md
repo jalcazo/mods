@@ -98,8 +98,7 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 |----------|----------|----------|
 | Total in this category: | 0 mods | | |
 
-
-# Monsters / Creatures
+# 🐲 Monsters / Creatures
 
 | Mod | Brief explanation | Spanish translation |
 |----------|----------|----------|
@@ -258,7 +257,8 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 | 9 | [Of Melodies and Moonlight - A Sadrith Mora Artist](https://www.nexusmods.com/morrowind/mods/53307?tab=files&file_id=1000052996) | Surrounded by rumors, a peculiar painter roams the night. Will you help him and become his apprentice? To start the quest, talk to Veradul Dervayn, the artist, who for some odd reason prefers to paint at night. BCOM compatible. The painter will appear after 24 hours the first time you visit him. MWSE and OpenMW compatible. | todo | :tv: [Morrowind Mod of the Day - Of Melodies and Moonlight Showcase](https://www.youtube.com/watch?v=PyMqw20pn1o) |
 | 10 | [The Reclamation of Hasimminus Mine](https://www.nexusmods.com/morrowind/mods/46095) | Crawl through treacherous mine shafts, face Sixth House Cultists, and build up a town for your Great House! New quests, people, and town! | todo | :tv: [Morrowind Mod of the Day - Reclaiming Hasimminus Mine Showcase](https://www.youtube.com/watch?v=KWz910iQ8HM) |
 | 11 | [Dissident Ordinators](https://www.nexusmods.com/morrowind/mods/52874) | What if a group of outcast Ordinators decided to join the Dissident Priests? This mod makes this interesting possibility come true by bringing Dissident Ordinators into the game. Features special armor and weapon, a micro-quest with unique dialogue, and an immersive addition to the Ministry of Truth. | todo | :tv: [Morrowind Mod of the Day - Dissident Ordinators Showcase](https://www.youtube.com/watch?v=xdeM3wQJ4aE) |
-| Total in this category: | 11 mods | | |
+| 12 | [Death of a Taxman Expanded](https://www.nexusmods.com/morrowind/mods/53303) | Expands a vanilla quest in Seyda Neen. | todo | :tv: [Morrowind Mod of the Day - Tragic Tale of Processus Vitellius Showcase](https://www.youtube.com/watch?v=KAmJXvULIXg) |
+| Total in this category: | 12 mods | | |
 
 # Armor, armors
 
