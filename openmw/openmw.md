@@ -246,12 +246,13 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 |----------|----------|----------|
 | Total in this category: | 0 mods | | |
 
-# Towns, cities, locations
+# Towns, cities, locations, towers, etc.
 
 | Number | Mod | Brief explanation | Spanish translation | Video review |
 |----------|----------|----------|----------|----------|
 | 1 | [Dallara Bal Isra](https://www.nexusmods.com/morrowind/mods/52054) | Overhaul of vanilla town. | todo | :tv: [Morrowind Mod of the Day - Dallara Bal Isra Showcase](https://www.youtube.com/watch?v=zR3kMMbA_kY) |
-| Total in this category: | 1 mod | | |
+| 2 | [Tethered Tel Branora](https://www.nexusmods.com/morrowind/mods/53314) | An exterior overhaul of Tel Branora and the surrounding island to be more thematic to Mistress Therana. | todo | :tv: [Morrowind Mod of the Day - Tethered Tel Branora Showcase](https://www.youtube.com/watch?v=5gQLHqTkqF4) |
+| Total in this category: | 2 mods | | |
 
 # 🧭 Quests
 
