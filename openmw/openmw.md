@@ -79,7 +79,8 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 | 3 | [URH - Ald Velothi](https://www.nexusmods.com/morrowind/mods/51590) | An overhaul of the Ald Velothi outpost to give it a unique look. | Not needed. | :tv: [Morrowind Mod of the Day - Redoran Ald Velothi & Khuul Showcase](https://www.youtube.com/watch?v=JYCMGi7Tg0A) |
 | 4 | [URH - Khuul](https://www.nexusmods.com/morrowind/mods/51761) | Overhauls Thongar's Tradehouse in Khuul to be more unique. | todo | :tv: [Morrowind Mod of the Day - Redoran Ald Velothi & Khuul Showcase](https://www.youtube.com/watch?v=JYCMGi7Tg0A) | 
 | 5 | [Moody Magas Volar](https://www.nexusmods.com/morrowind/mods/49789) | Overhauls a vanilla dungeon. | todo | :tv: [Morrowind Mod of the Day - Moody Magas Volar Showcase](https://www.youtube.com/watch?v=LUhNuSqXMpE) |
-| Total in this category: | 5 mods | | |
+| 6 | [OAAB Vertical Shipwreck](https://www.nexusmods.com/morrowind/mods/52268) | todo | todo | :tv: [Morrowind Mod of the Day - Vertical Shipwreck Showcase](https://www.youtube.com/watch?v=l2Kl_R-DLWc) |
+| Total in this category: | 6 mods | | |
 
 # Combat
 
