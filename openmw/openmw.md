@@ -273,7 +273,8 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 | 12 | [Death of a Taxman Expanded](https://www.nexusmods.com/morrowind/mods/53303) | Expands a vanilla quest in Seyda Neen. | todo | :tv: [Morrowind Mod of the Day - Tragic Tale of Processus Vitellius Showcase](https://www.youtube.com/watch?v=KAmJXvULIXg) |
 | 13 | [Astrologian's Guild](https://www.nexusmods.com/morrowind/mods/51216) | Join a fully playable guild and gain ranks to the top. The Astrologians are a small scale guild, with just a handful of guild members started by an Altmer named Nelangoth, who was previously part of the Mages Guild and still holds ties to them. Includes several new dungeons, items, quests and locations. Designed for maximum compatibility. | todo | :tv: [Morrowind Mod of the Day - Astrologian's Guild Showcase](https://www.youtube.com/watch?v=4wOj6_TXOKI) |
 | 14 | [Temple Master](https://www.nexusmods.com/morrowind/mods/52749) | This mod lets the player take control of the Suran Temple once they advance enough in the Tribunal Temple faction. Through a series of quests (and with some choices to make along the way), you will get to improve the temple. | todo | :tv: [Morrowind Mod of the Day - Temple Master Showcase](https://www.youtube.com/watch?v=rKtP8C1BV3s) |
-| Total in this category: | 14 mods | | |
+| 15 | [The Curse of The Silent Siren](https://www.nexusmods.com/morrowind/mods/54667) | Visit the Land's End Tavern, a new location in the Bitter Coast Region south of Hla Oad. Listen to the bard's tale at night to discover a new quest about a cursed ship, The Silent Siren. This mod adds two new locations to the Bitter Coast and some new loot to find while seeking out the source of the cursed ship. | todo | :tv: [Morrowind Mod of the Day - The Curse of the Silent Siren Showcase](https://www.youtube.com/watch?v=zwAyj9BDN5c) |
+| Total in this category: | 15 mods | | |
 
 # 🛡️ Armor, armors
 
