@@ -228,27 +228,27 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 
 # Grim and Gore
 
-| Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|
+| Number | Mod | Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
 | Total in this category: | 0 mods | | |
 
 # Towers
 
-| Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|
+| Number | Mod | Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
 | 1 | [Corprusarium - Sorrow Heart of Tel Fyr](https://www.nexusmods.com/morrowind/mods/53280) | Tel Fyr overhaul. | todo | :tv: [Morrowind Mod of the Day - Sorrow Heart of Tel Fyr Showcase](https://www.youtube.com/watch?v=NvxCQodDa9o) |
 | Total in this category: | 1 mod | | |
 
 # Shrines and statues
 
-| Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|
+| Number | Mod | Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
 | Total in this category: | 0 mods | | |
 
 # Collectibles
 
-| Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|
+| Number | Mod | Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
 | Total in this category: | 0 mods | | |
 
 # Towns, cities, locations, towers, etc.
