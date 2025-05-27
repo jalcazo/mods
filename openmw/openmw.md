@@ -223,7 +223,8 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 |----------|----------|----------|----------|----------|
 | 1 | [Azura's Shrine Overhaul](https://www.nexusmods.com/morrowind/mods/53277) | Overhaul of both the exterior and interior of the Shrine of Azura. | todo | :tv: [Morrowind Mod of the Day - Azura's Shrine Overhaul Showcase](https://www.youtube.com/watch?v=Q2cJT8n3l9g) |
 | 2 | [Almalexia's Chamber Overhaul](https://www.nexusmods.com/morrowind/mods/52737) | Overhaul of Almalexia's High Chapel in Mournhold. | todo | :tv: [Morrowind Mod of the Day - Almalexia's Chambers Overhaul Showcase](https://www.youtube.com/watch?v=Obzod_71_AY) |
-| Total in this category: | 2 mods | | |
+| 3 | [Daedric Shrine Overhaul Malacath](https://www.nexusmods.com/morrowind/mods/51882) | Overhauls most of Malacath's shrine with assets from OAAB, TR, and The Doors of Oblivion. Compatible with "The Forgotten". | todo | :tv: [Morrowind Mod of the Day - Malacath Overhaul Showcase](https://www.youtube.com/watch?v=T_VgFZkOC4U) |
+| Total in this category: | 3 mods | | |
 
 # Grim and Gore
 
