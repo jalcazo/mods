@@ -280,7 +280,8 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 | 15 | [The Curse of The Silent Siren](https://www.nexusmods.com/morrowind/mods/54667) | Visit the Land's End Tavern, a new location in the Bitter Coast Region south of Hla Oad. Listen to the bard's tale at night to discover a new quest about a cursed ship, The Silent Siren. This mod adds two new locations to the Bitter Coast and some new loot to find while seeking out the source of the cursed ship. | todo | :tv: [Morrowind Mod of the Day - The Curse of the Silent Siren Showcase](https://www.youtube.com/watch?v=zwAyj9BDN5c) |
 | 16 | [Troubled Waters](https://www.nexusmods.com/morrowind/mods/52298) | Dive for secrets and uncover the mysteries of the Cliffracer's Roost in this short adventure. | todo | :tv: [Morrowind Mod of the Day - Troubled Waters Showcase](https://www.youtube.com/watch?v=hVAO2QB8YFg) |
 | 17 | [Balmora Outskirts - Stoneflower trading post](https://www.nexusmods.com/morrowind/mods/54534) | This mod adds a new cozy trading post/tavern to the outskirts of Balmora. There you can meet a Khajiit bard who sings her native songs, try delicious bantam guar meat, and explore the nearby egg mine... | todo | :tv: [Morrowind Mod of the Day - Balmora Outskirts Showcase](https://www.nexusmods.com/morrowind/mods/54534) |
-| Total in this category: | 17 mods | | |
+| 18 | [The Mananaut's Message](https://www.nexusmods.com/morrowind/mods/52896) | This mod adds Royal Imperial Mananaut Alberius outside of the Tower of Tel Fyr. He has a message that he wants you to deliver for him. At the end of the quest, you'll get your very own royal mananaut outfit! | todo | :tv: [Morrowind Mod of the Day - The Mananaut's Message Showcase](https://www.youtube.com/watch?v=dm4feJckx2Q) |
+| Total in this category: | 18 mods | | |
 
 # 🛡️ Armor, armors
 
