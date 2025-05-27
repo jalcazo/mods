@@ -276,7 +276,8 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 | 14 | [Temple Master](https://www.nexusmods.com/morrowind/mods/52749) | This mod lets the player take control of the Suran Temple once they advance enough in the Tribunal Temple faction. Through a series of quests (and with some choices to make along the way), you will get to improve the temple. | todo | :tv: [Morrowind Mod of the Day - Temple Master Showcase](https://www.youtube.com/watch?v=rKtP8C1BV3s) |
 | 15 | [The Curse of The Silent Siren](https://www.nexusmods.com/morrowind/mods/54667) | Visit the Land's End Tavern, a new location in the Bitter Coast Region south of Hla Oad. Listen to the bard's tale at night to discover a new quest about a cursed ship, The Silent Siren. This mod adds two new locations to the Bitter Coast and some new loot to find while seeking out the source of the cursed ship. | todo | :tv: [Morrowind Mod of the Day - The Curse of the Silent Siren Showcase](https://www.youtube.com/watch?v=zwAyj9BDN5c) |
 | 16 | [Troubled Waters](https://www.nexusmods.com/morrowind/mods/52298) | Dive for secrets and uncover the mysteries of the Cliffracer's Roost in this short adventure. | todo | :tv: [Morrowind Mod of the Day - Troubled Waters Showcase](https://www.youtube.com/watch?v=hVAO2QB8YFg) |
-| Total in this category: | 16 mods | | |
+| 17 | [Balmora Outskirts - Stoneflower trading post](https://www.nexusmods.com/morrowind/mods/54534) | This mod adds a new cozy trading post/tavern to the outskirts of Balmora. There you can meet a Khajiit bard who sings her native songs, try delicious bantam guar meat, and explore the nearby egg mine... | todo | :tv: [Morrowind Mod of the Day - Balmora Outskirts Showcase](https://www.nexusmods.com/morrowind/mods/54534) |
+| Total in this category: | 17 mods | | |
 
 # 🛡️ Armor, armors
 
