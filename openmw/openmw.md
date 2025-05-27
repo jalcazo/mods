@@ -232,11 +232,12 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 |----------|----------|----------|
 | Total in this category: | 0 mods | | |
 
-# Towers and Ruins
+# Towers
 
 | Mod | Brief explanation | Spanish translation |
 |----------|----------|----------|
-| Total in this category: | 0 mods | | |
+| 1 | [Corprusarium - Sorrow Heart of Tel Fyr](https://www.nexusmods.com/morrowind/mods/53280) | Tel Fyr overhaul. | todo | :tv: [Morrowind Mod of the Day - Sorrow Heart of Tel Fyr Showcase](https://www.youtube.com/watch?v=NvxCQodDa9o) |
+| Total in this category: | 1 mod | | |
 
 # Shrines and statues
 
