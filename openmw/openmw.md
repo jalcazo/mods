@@ -207,7 +207,8 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 | 12 | [Maren's Misfit Mabrigash](https://www.nexusmods.com/morrowind/mods/48709) | Explore a revamped Maren Ancestral Tomb in search of a mysterious Ashlander outcast. | todo | :tv: [Morrowind Mod of the Day - Maren's Misfit Mabrigash Showcase](https://www.youtube.com/watch?v=ZfybNr3Ee5Q) |
 | 13 | [Andrano Ancestral Tomb Remastered](https://www.nexusmods.com/morrowind/mods/44672) | An overhaul for the second main quest and its associated dungeon. Compatible with OAAB tombs and towers. | todo | :tv: [Morrowind Mod of the Day - Andrano Tomb Remastered Showcase](https://www.youtube.com/watch?v=f8H0FLTUqbY) |
 | 14 | [Rotheran Overhauled](https://www.nexusmods.com/morrowind/mods/52368) | Overhaul of vanilla dungeon. | todo | [Morrowind Mod of the Day - Rotheran Overhauled Showcase](https://www.youtube.com/watch?v=TRv2ZYhxdsI) |
-| Total in this category: | 14 mods | | |
+| 15 | [Vennin's Addamasartus Overhaul](https://www.nexusmods.com/morrowind/mods/52420) | An overhaul of Addamasartus right outside of Seyda Neen using OAAB assets. | todo | :tv: [Morrowind Mod of the Day - Vennin's Addamasartus Overhaul Showcase](https://www.youtube.com/watch?v=NeeiZ-gUY6Q) |
+| Total in this category: | 15 mods | | |
 
 # Dwemer ruins (subcategory of dungeons)
 
