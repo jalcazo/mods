@@ -38,7 +38,8 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 | 1 | [Salothran Beacon](https://www.nexusmods.com/morrowind/mods/52253) | Requires Rocky West Gash. | todo | :tv: [Morrowind Mod of the Day - Salothran Beacon Showcase](https://www.youtube.com/watch?v=-putcW_vO-8) |
 | 2 | [Rocky West Gash](https://www.nexusmods.com/morrowind/mods/50109) | This mod makes West Gash more rocky. | todo | todo |
 | 3 | [Markgran Forest (Maar Gan Forest)](https://www.nexusmods.com/morrowind/mods/53627) | Adds a mushroom forest. | todo | :tv: [Morrowind Mod of the Day - Maar Gan Forest Showcase](https://www.youtube.com/watch?v=NBBfSkuVHvQ) |
-| Total in this category: | 3 mods | | |
+| 4 | [Hidden Sea Loot](https://www.nexusmods.com/morrowind/mods/52296) | Adds over 500 hidden containers for you to find in the sea for every region around the island of Vvardenfell. | todo | :tv: [Morrowind Mod of the Day - Hidden Sea Loot Showcase](https://www.youtube.com/watch?v=vM4Wmh_tZGc) |
+| Total in this category: | 4 mods | | |
 
 # Gameplay
 
