@@ -111,23 +111,23 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 
 # 🐲 Monsters / Creatures
 
-| Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|
-| Total in this category: | 0 mods | | |
-
+| Number | Mod | Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| 1 | [EKM Dunmer Corprus Variants](https://www.nexusmods.com/morrowind/mods/52944) | Dunmer variants of corprus stalkers and lame corprus using modified textures for Westly's corprus stalkers and Connary's lame corprus, respectively. | todo | :tv: [Morrowind Mod of the Day - Dunmer Corprus Variants Showcase](https://www.youtube.com/watch?v=ssYyg5gBq88) |
+| Total in this category: | 1 mod | | |
 
 # Weather / fog / fogs / mists
 
-| Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|
+| Number | Mod | Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
 | Total in this category: | 0 mods | | |
 
 :tv: [Video review of Cathedral Weathers (comparison with other weathers)](https://www.youtube.com/watch?v=p_CMoTK-8bM)
 
 # Animals, horses, hunting, fauna, wildlife, etc.
 
-| Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|
+| Number | Mod | Brief explanation | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
 | Total in this category: | 0 mods | | |
 
 # NPC's
