@@ -42,7 +42,8 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 | 5 | [The Beacons of Mamaea](https://www.nexusmods.com/morrowind/mods/53875) | Adds a network of alarm beacons that stretches from Ghostgate all the way south to Vivec. Inspired by the Warning Beacons of Gondor from Lord of the Rings. | todo | :tv: [Morrowind Mod of the Day - The Beacons of Mamaea Showcase](https://www.youtube.com/watch?v=UnxwY8cb4DA) |
 | 6 | [Little Landscapes- Odai River Upper Overhaul](https://www.nexusmods.com/morrowind/mods/53274) | Compatible with Balmora Docks (said by DEG in the video review) Conflicts with Rocky West Gash except with a patch. | todo | :tv: [Morrowind Mod of the Day - Odai River Overhaul Showcase](https://www.youtube.com/watch?v=m2bQWxW31vs) |
 | 7 | [The Mountain of Fear](https://www.nexusmods.com/morrowind/mods/52859) | This mod touches up Mount Kand, to make it slightly more worthy of its secondary name: "Mountain of Fear". | todo | :tv: [Morrowind Mod of the Day - The Mountain of Fear Showcase](https://www.youtube.com/watch?v=Adb31t0wvuA) |
-| Total in this category: | 7 mods | | |
+| 8 | [Azuras Coast Redone](https://www.nexusmods.com/morrowind/mods/53466) | Makes the eastern part of Azuras Coast rockier, with Zafirbel Bay getting its own unique parasol mushroom variant. | Not needed. | :tv: [Morrowind Mod of the Day - Azura's Coast Redone 2023 Showcase](www.google.com) |
+| Total in this category: | 8 mods | | |
 
 # Gameplay
 
