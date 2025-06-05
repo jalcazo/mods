@@ -289,7 +289,8 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 | 19 | [The Mysterious Affair of Sara Shenk](https://www.nexusmods.com/morrowind/mods/52968) | In the quaint town of Caldera, the innkeeper, Shenk, becomes the centre of attention: the once-idyllic life of innkeeper Shenk takes a dark turn when his wife vanishes without a trace, leaving behind a trail of speculation and intrigue. Each step forward brings you closer to unravelling the enigma, but beware, for not all is as it seems. | todo | :tv: [Morrowind Mod of the Day - The Mysterious Affair of Sara Shenk Showcase](https://www.youtube.com/watch?v=XJ9Cx7MypPo) |
 | 20 | [A Cold Cell - A Quest Mod](https://www.nexusmods.com/morrowind/mods/52832) | Travel to Khuul and investigate the rumors about a smuggling operation nearby. Or perhaps it's more than that? | todo | :tv: [Morrowind Mod of the Day - A Cold Cell Showcase](https://www.youtube.com/watch?v=y1MTuU8DbXc) |
 | 21 | [The Hand](https://www.nexusmods.com/morrowind/mods/52302) | A short quest involving a strange gauntlet. Ask about rumors in Vivec to start. | todo | :tv: [Morrowind Mod of the Day - The Hand Showcase](https://www.youtube.com/watch?v=EPxdBg09wRg) |
-| Total in this category: | 21 mods | | |
+| 22 | [Favors of Dagon](https://www.nexusmods.com/morrowind/mods/54451) | Adds several new quests to the cultists of Mehrunes Dagon and makes them friendly as soon as you start the main quest of the mod. | todo | :tv: [Morrowind Mod of the Day - Favors of Dagon Showcase](https://www.youtube.com/watch?v=XmwUU9tn5mM) |
+| Total in this category: | 22 mods | | |
 
 # 🛡️ Armor, armors
 
