@@ -209,7 +209,8 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 | 13 | [Andrano Ancestral Tomb Remastered](https://www.nexusmods.com/morrowind/mods/44672) | An overhaul for the second main quest and its associated dungeon. Compatible with OAAB tombs and towers. | todo | :tv: [Morrowind Mod of the Day - Andrano Tomb Remastered Showcase](https://www.youtube.com/watch?v=f8H0FLTUqbY) |
 | 14 | [Rotheran Overhauled](https://www.nexusmods.com/morrowind/mods/52368) | Overhaul of vanilla dungeon. | todo | [Morrowind Mod of the Day - Rotheran Overhauled Showcase](https://www.youtube.com/watch?v=TRv2ZYhxdsI) |
 | 15 | [Vennin's Addamasartus Overhaul](https://www.nexusmods.com/morrowind/mods/52420) | An overhaul of Addamasartus right outside of Seyda Neen using OAAB assets. | todo | :tv: [Morrowind Mod of the Day - Vennin's Addamasartus Overhaul Showcase](https://www.youtube.com/watch?v=NeeiZ-gUY6Q) |
-| Total in this category: | 15 mods | | |
+| 16 | [Ahrkthumz - Dwemer Puzzle Dungeon](https://www.nexusmods.com/morrowind/mods/54187) | Venture deep into Ahrkthumz, an untouched Dwemer ruin north of Caldera. Discover new artifacts and a unique color-based puzzle mechanic. | todo | :tv: [Morrowind Mod of the Day - Dwemer Puzzle Dungeon Showcase](https://www.youtube.com/watch?v=5yszBDRklxA) |
+| Total in this category: | 16 mods | | |
 
 # Dwemer ruins (subcategory of dungeons)
 
