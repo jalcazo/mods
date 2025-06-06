@@ -212,7 +212,8 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 | 15 | [Vennin's Addamasartus Overhaul](https://www.nexusmods.com/morrowind/mods/52420) | An overhaul of Addamasartus right outside of Seyda Neen using OAAB assets. | todo | :tv: [Morrowind Mod of the Day - Vennin's Addamasartus Overhaul Showcase](https://www.youtube.com/watch?v=NeeiZ-gUY6Q) |
 | 16 | [Ahrkthumz - Dwemer Puzzle Dungeon](https://www.nexusmods.com/morrowind/mods/54187) | Venture deep into Ahrkthumz, an untouched Dwemer ruin north of Caldera. Discover new artifacts and a unique color-based puzzle mechanic. | todo | :tv: [Morrowind Mod of the Day - Dwemer Puzzle Dungeon Showcase](https://www.youtube.com/watch?v=5yszBDRklxA) |
 | 17 | [Kumarahaz - The Bandit Lair](https://www.nexusmods.com/morrowind/mods/56192) | To the northeast of Tel Branora, the caverns of Kumarahaz have become a haven for bandits, Dunmer separatists that desire nothing more than to drive the Empire out of Morrowind. Raiding the shores of the Inner Sea, they've caught the attention of the Imperial Legion, and now their fate is in your hands. | todo | :tv: [Morrowind Mod of the Day - Kumarahaz - The Bandit Lair Showcase](https://www.youtube.com/watch?v=p539LfjyArU) |
-| Total in this category: | 17 mods | | |
+| 18 | [The Wake of Hanin - Ibar-Dad Overhaul](https://www.nexusmods.com/morrowind/mods/56206) | Overhauls a vanilla dungeon. | todo | :tv: [Morrowind Mod of the Day - The Wake of Hanin Showcase](https://www.youtube.com/watch?v=YrTsiqmovkM) |
+| Total in this category: | 18 mods | | |
 
 # Dwemer ruins (subcategory of dungeons)
 
