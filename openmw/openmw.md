@@ -291,7 +291,8 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 | 20 | [A Cold Cell - A Quest Mod](https://www.nexusmods.com/morrowind/mods/52832) | Travel to Khuul and investigate the rumors about a smuggling operation nearby. Or perhaps it's more than that? | todo | :tv: [Morrowind Mod of the Day - A Cold Cell Showcase](https://www.youtube.com/watch?v=y1MTuU8DbXc) |
 | 21 | [The Hand](https://www.nexusmods.com/morrowind/mods/52302) | A short quest involving a strange gauntlet. Ask about rumors in Vivec to start. | todo | :tv: [Morrowind Mod of the Day - The Hand Showcase](https://www.youtube.com/watch?v=EPxdBg09wRg) |
 | 22 | [Favors of Dagon](https://www.nexusmods.com/morrowind/mods/54451) | Adds several new quests to the cultists of Mehrunes Dagon and makes them friendly as soon as you start the main quest of the mod. | todo | :tv: [Morrowind Mod of the Day - Favors of Dagon Showcase](https://www.youtube.com/watch?v=XmwUU9tn5mM) |
-| Total in this category: | 22 mods | | |
+| 23 | [Strange Sands](https://www.nexusmods.com/morrowind/mods/54236) | A quest about a Khajiit warrior hunting down a Nibenese fugitive. | todo | :tv: [Morrowind Mod of the Day - Strange Sands Showcase](https://www.youtube.com/watch?v=ezxSwMImFU0) |
+| Total in this category: | 23 mods | | |
 
 # 🛡️ Armor, armors
 
