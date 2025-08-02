@@ -5,6 +5,7 @@ My modlist compilation for OpenMW, thanks to all the authors! I plan on doing a 
 <img src="logo.png">
 (Tamriel Rebuilt image)
 
+RESET CHARACTER without loosing quests:
 player->setlevel 1
 player->setstrength 30
 player->setintelligence 30
@@ -15,34 +16,31 @@ player->setendurance 30
 player->setpersonality 30
 player->setluck 30
 
-player->setskill block 1
-player->setskill armorer 1
-player->setskill mediumarmor 1
-player->setskill heavyarmor 1
-player->setskill bluntweapon 1
-player->setskill longblade 1
-player->setskill axe 1
-player->setskill spear 1
-player->setskill athletics 1
-player->setskill enchant 1
-player->setskill destruction 1
-player->setskill alteration 1
-player->setskill illusion 1
-player->setskill conjuration 1
-player->setskill mysticism 1
-player->setskill restoration 1
-player->setskill alchemy 1
-player->setskill unarmored 1
-player->setskill security 1
-player->setskill sneak 1
-player->setskill acrobatics 1
-player->setskill lightarmor 1
-player->setskill shortblade 1
-player->setskill marksman 1
-player->setskill mercantile 1
-player->setskill speechcraft 1
-player->setskill handtohand 1
-
+player->setmediumarmor 30
+player->setheavyarmor 30
+player->setbluntweapon 30
+player->setlongblade 30
+player->setaxe 30
+player->setspear 30
+player->setathletics 30
+player->setenchant 30
+player->setdestruction 30
+player->setalteration 30
+player->setillusion 30
+player->setconjuration 30
+player->setmysticism 30
+player->setrestoration 30
+player->setalchemy 30
+player->setunarmored 30
+player->setsecurity 30
+player->setsneak 30
+player->setacrobatics 30
+player->setlightarmor 30
+player->setshortblade 30
+player->setmarksman 30
+player->setmercantile 30
+player->setspeechcraft 30
+player->sethandtohand 30
 
 # Essential (many mods need these)
 
@@ -338,4 +336,5 @@ player->setskill handtohand 1
 | Number | Mod |  Brief explanation | Spanish translation |
 |----------|----------|----------|----------|
 | Total in this category: | 0 mods | | |
+
 
