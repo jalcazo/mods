@@ -1,6 +1,6 @@
-# Skyrim AE modlist by Jaume Alcazo (WIP)
+# Skyrim Helgrind modlist by Jaume Alcazo (WIP)
 
-My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing a [collection](https://next.nexusmods.com/) on [Nexusmods](https://www.nexusmods.com/skyrimspecialedition) with this modlist. Feel free to use the "Adult (NSFW)" section or not, please. Contact me at jaume.alcazo@gmail.com
+My modlist compilation for Skyrim SE-AE, thanks to all the authors! I plan on doing a [collection](https://next.nexusmods.com/) on [Nexusmods](https://www.nexusmods.com/skyrimspecialedition) with this modlist. Feel free to use the "Adult (NSFW)" section or not, please. Contact me at jaume.alcazo@gmail.com
 
 <img src="img/cover.jpg">
 
