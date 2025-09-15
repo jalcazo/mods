@@ -2,7 +2,7 @@
 
 My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing a [collection](https://next.nexusmods.com/) on [Nexusmods](https://www.nexusmods.com/skyrimspecialedition) with this modlist. Feel free to use the "Adult (NSFW)" section or not, please. Contact me at jaume.alcazo@gmail.com
 
-<img src="cover.jpg">
+<img src="img/cover.jpg">
 
 # Essential (many mods need these)
 
@@ -15,16 +15,13 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | 5 | [Spell Perk Item Distributor (SPID).](https://www.nexusmods.com/skyrimspecialedition/mods/36869) | SKSE plugin that is used add spells/perks/items/shouts, etc. to the NPCs. | Not needed. |
 | 6 | [CBBE Body.](https://www.nexusmods.com/skyrimspecialedition/mods/198) | Nice body, UNP alternative gives nudes when looting females (not males), and it's kinda un-inmersive if you are doing a SFW playthrough. | [CBBE - Castellano - Spanish](https://www.nexusmods.com/skyrimspecialedition/mods/64240?tab=files) (updated 14 aug 2023). |
 | 7 | CBBE AE-CC Outfits. (same page as CBBE Body) | Includes all outfits of the Anniversary Edition/Creation Club using the "CBBE Curvy (Outfit)" preset and BodySlide files. No body physics as almost all outfits part of it shouldn't have it anyway. Use BodySlide to apply other body presets yourself. | Not needed. |
-| 8 | [Achievements Mods Enabler.](https://www.nexusmods.com/skyrimspecialedition/mods/245) (Enables achievements in Skyrim SE/AE with mods. SKSE64 support). | Obviously we want our Steam achievements back!<br> <img src="achievements/achievements.png"> | Not needed. Furthermore: You don't need his DLL loader if you are using SKSE64 (which you should!). |
-| 9 | [powerofthree's Papyrus Extender.](https://www.nexusmods.com/skyrimspecialedition/mods/22854) | SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events. | Not needed. |
-| 10 | [Inventory Functions SE-AE.](https://www.nexusmods.com/skyrimspecialedition/mods/13366) | Allow mods filtering the inventory by keyword. | Not needed. |
-| 11 | [Keyword Item Distributor (KID).](https://www.nexusmods.com/skyrimspecialedition/mods/55728) | Distributes keywords to different objects.  | Not needed. |
-| 12 | [MergeMapper.](https://www.nexusmods.com/skyrimspecialedition/mods/74689) | Allows Papyrus scripts to be aware and also allows other DLLs to support zmerge merges.  | Not needed. |
-| 13 | [Inventory Interface Information Injector.](https://www.nexusmods.com/skyrimspecialedition/mods/85702) | Inserts interesting information, including item icons, into the inventory interface. | [Inventory Interface Information Injector - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/94916) |
-| 14 | [PapyrusUtil SE - Modders Scripting Utility Functions.](https://www.nexusmods.com/skyrimspecialedition/mods/13048) | Adds several new scripts with native functions that provide various conveniences related to data storage and other misc functions to the scripter/modder.  | Not needed. |
-| 15 | [Racemenu.](https://www.nexusmods.com/skyrimspecialedition/mods/19080?tab=description) | todo | [RaceMenu - Castellano - Spanish](https://www.nexusmods.com/skyrimspecialedition/mods/64182) |
-| 16 | [Headpart Whitelist.](https://www.nexusmods.com/skyrimspecialedition/mods/106126) | SKSE plugin that removes unnecessary NPC only/broken headparts from Racemenu. | Not needed. | 
-| Total in this category: | 16 mods | | |
+| 8 | [powerofthree's Papyrus Extender.](https://www.nexusmods.com/skyrimspecialedition/mods/22854) | SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events. | Not needed. |
+| 9 | [Inventory Functions SE-AE.](https://www.nexusmods.com/skyrimspecialedition/mods/13366) | Allow mods filtering the inventory by keyword. | Not needed. |
+| 10 | [Keyword Item Distributor (KID).](https://www.nexusmods.com/skyrimspecialedition/mods/55728) | Distributes keywords to different objects.  | Not needed. |
+| 11 | [MergeMapper.](https://www.nexusmods.com/skyrimspecialedition/mods/74689) | Allows Papyrus scripts to be aware and also allows other DLLs to support zmerge merges.  | Not needed. |
+| 12 | [Inventory Interface Information Injector.](https://www.nexusmods.com/skyrimspecialedition/mods/85702) | Inserts interesting information, including item icons, into the inventory interface. | [Inventory Interface Information Injector - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/94916) |
+| 13 | [PapyrusUtil SE - Modders Scripting Utility Functions.](https://www.nexusmods.com/skyrimspecialedition/mods/13048) | Adds several new scripts with native functions that provide various conveniences related to data storage and other misc functions to the scripter/modder.  | Not needed. |
+| Total in this category: | 13 mods | | |
 
 # Fixes/helpers
 
@@ -48,7 +45,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | 17 | [Recursion Monitor (Recursion Fix).](https://www.nexusmods.com/skyrimspecialedition/mods/76867) | Detects broken papyrus scripts stuck in recursion and prevents huge framerate lag  | Not needed. |
 | Total in this category: | 21 mods | | |
 
-<img src="fixes/recursion_monitor1.jpg"> <img src="fixes/recursion_monitor2.jpg">
+<img src="img/fixes/recursion_monitor1.jpg"> <img src="img/fixes/recursion_monitor2.jpg">
 
 - Tested and discarded:
     - Delete hawk nests. Causes purple textures on regular nests.
@@ -69,15 +66,15 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | 10 | [Faultier's PBR Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/125308) | A texture mod that makes use of Community Shaders' PBR feature and covers large parts of the game. | Not needed. | :tv: todo |
 | Total in this category: | 10 mods | | |
 
-<details><summary>Ambient occlusion of Skylighting (before/after animations), to avoid the ugly flat lighting of gamebryo games: </summary> <img src="community/skylighting1_gifanimat.webp"> <img src="community/skylighting2_gifanimat.webp"><img src="community/skylighting3_gifanimat.webp"><img src="community/skylighting4_gifanimat.webp"><img src="community/skylighting5_gifanimat.webp"></details>
+<details><summary>Ambient occlusion of Skylighting (before/after animations), to avoid the ugly flat lighting of gamebryo games: </summary> <img src="img/community/skylighting1_gifanimat.webp"> <img src="img/community/skylighting2_gifanimat.webp"><img src="img/community/skylighting3_gifanimat.webp"><img src="img/community/skylighting4_gifanimat.webp"><img src="img/community/skylighting5_gifanimat.webp"></details>
 
-<details><summary>Indirect illumination (some before/after animations): </summary> <img src="community/ssgi_gifanimat1.webp"> <img src="community/ssgi_gifanimat2.webp"><img src="community/ssgi_gifanimat3.webp"><img src="community/ssgi4.webp"><img src="community/ssgi5.webp"><img src="community/ssgi6.webp"><img src="community/ssgi7.webp"><img src="community/ssgi8.webp"><img src="community/ssgi9.webp"></details>
+<details><summary>Indirect illumination (some before/after animations): </summary> <img src="img/community/ssgi_gifanimat1.webp"> <img src="img/community/ssgi_gifanimat2.webp"><img src="img/community/ssgi_gifanimat3.webp"><img src="img/community/ssgi4.webp"><img src="img/community/ssgi5.webp"><img src="img/community/ssgi6.webp"><img src="img/community/ssgi7.webp"><img src="img/community/ssgi8.webp"><img src="img/community/ssgi9.webp"></details>
 
-<details><summary>Water effects (some before/after animations): </summary> <img src="community/water_effects1.gif"> <img src="community/water_effects2.gif"><img src="community/water_effects3.gif"></details>
+<details><summary>Water effects (some before/after animations): </summary> <img src="img/community/water_effects1.gif"> <img src="img/community/water_effects2.gif"><img src="community/water_effects3.gif"></details>
 
-<details><summary>Wetness effects (some before/after animations): </summary> <img src="community/wetness_effects1.webp"> <img src="community/wetness_effects2.webp"><img src="community/wetness_effects3.webp"><img src="community/wetness_effects4.webp"><img src="community/wetness_effects5.webp"></details>
+<details><summary>Wetness effects (some before/after animations): </summary> <img src="img/community/wetness_effects1.webp"> <img src=img/community/wetness_effects2.webp"><img src="img/community/wetness_effects3.webp"><img src="img/community/wetness_effects4.webp"><img src="img/community/wetness_effects5.webp"></details>
 
-<details><summary>PBR Skyrim</summary> <img src="community/PBRskyrim1.jpg"> <img src="community/PBRskyrim2.jpg"><img src="community/PBRskyrim3.jpg"><img src="community/PBRskyrim4.jpg"><img src="community/PBRskyrim5.jpg"><img src="community/PBRskyrim6.jpg"></details>
+<details><summary>PBR Skyrim</summary> <img src="img/community/PBRskyrim1.jpg"> <img src="img/community/PBRskyrim2.jpg"><img src="img/community/PBRskyrim3.jpg"><img src="community/PBRskyrim4.jpg"><img src="img/community/PBRskyrim5.jpg"><img src="img/community/PBRskyrim6.jpg"></details>
 
 # Armor, armors
 
@@ -103,7 +100,7 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | 9 | [Glorious Doors of Skyrim (GDOS) SE.](https://www.nexusmods.com/skyrimspecialedition/mods/32376) | All-In-One pack. | todo | :tv: todo |
 | Total in this category: | 9 mods | | |
 
-<details><summary>Screenshots examples of the meshes </summary> <img src="meshes/dwemer_pipework_reworked1.jpg"> <img src="meshes/dwemer_pipework_reworked2.jpg"> <img src="meshes/thrones_of_skyrim.jpg"> <img src="meshes/better_blended_mushrooms.jpg"> <img src="meshes/night_mother1.jpg"> <img src="meshes/night_mother2.jpg"> <img src="meshes/rallys_dark_elf_furniture.jpg"> <img src="meshes/renthals_waterwheel1.jpg"> <img src="meshes/renthals_waterwheel2.jpg"> <img src="meshes/renthals_waterwheel3.jpg"> <img src="meshes/glorious_doors_of_skyrim1.jpg"> <img src="meshes/glorious_doors_of_skyrim2.jpg"> <img src="meshes/glorious_doors_of_skyrim3.jpg"> <img src="meshes/glorious_doors_of_skyrim4.jpg"> <img src="meshes/glorious_doors_of_skyrim5.jpg"> <img src="meshes/glorious_doors_of_skyrim6.jpg"> <img src="meshes/glorious_doors_of_skyrim7.jpg"> <img src="meshes/JS_Purses_and Septims_SE.jpg"></details>
+<details><summary>Screenshots examples of the meshes </summary> <img src="img/meshes/dwemer_pipework_reworked1.jpg"> <img src="img/meshes/dwemer_pipework_reworked2.jpg"> <img src="meshes/thrones_of_skyrim.jpg"> <img src="img/meshes/better_blended_mushrooms.jpg"> <img src="img/meshes/night_mother1.jpg"> <img src="img/meshes/night_mother2.jpg"> <img src="img/meshes/rallys_dark_elf_furniture.jpg"> <img src="img/meshes/renthals_waterwheel1.jpg"> <img src="img/meshes/renthals_waterwheel2.jpg"> <img src="img/meshes/renthals_waterwheel3.jpg"> <img src="img/meshes/glorious_doors_of_skyrim1.jpg"> <img src="img/meshes/glorious_doors_of_skyrim2.jpg"> <img src="img/meshes/glorious_doors_of_skyrim3.jpg"> <img src="img/meshes/glorious_doors_of_skyrim4.jpg"> <img src="img/meshes/glorious_doors_of_skyrim5.jpg"> <img src="img/meshes/glorious_doors_of_skyrim6.jpg"> <img src="img/meshes/glorious_doors_of_skyrim7.jpg"> <img src="img/meshes/JS_Purses_and Septims_SE.jpg"></details>
 
 # GUI / Interface / User Interface
 
@@ -176,7 +173,7 @@ review of apocalypse
 | [JS Shrines of the Divines SE.](https://www.nexusmods.com/skyrimspecialedition/mods/33394) | todo | Not needed. |
 | [Daedric Shrines - All in One.](https://www.nexusmods.com/skyrimspecialedition/mods/78772) | todo | [Daedric Shrines - All in One - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/94183) |
 
-<details><summary>Screenshots of the Daedrid Shrines.</summary> <img src="religion/daedric_shrines/1.jpg"/> <img src="religion/daedric_shrines/2.jpg"/> <img src="religion/daedric_shrines/3.jpg"/> <img src="religion/daedric_shrines/4.jpg"/> <img src="religion/daedric_shrines/5.jpg"/> <img src="religion/daedric_shrines/6.jpg"/> </details>
+<details><summary>Screenshots of the Daedrid Shrines.</summary> <img src="img/religion/daedric_shrines/1.jpg"/> <img src="img/religion/daedric_shrines/2.jpg"/> <img src="img/religion/daedric_shrines/3.jpg"/> <img src="img/religion/daedric_shrines/4.jpg"/> <img src="img/religion/daedric_shrines/5.jpg"/> <img src="img/religion/daedric_shrines/6.jpg"/> </details>
 
 :tv: [Video review of Wintersun.](https://www.youtube.com/watch?v=g8G7jAr9mY8)
 
@@ -198,7 +195,7 @@ review of apocalypse
 
 | Clouds over Riverwood | Translation not needed. Checked the .esp on 21/2/2024 |
 
-<details><summary>Screenshots (Bogmort). </summary> <img src="monsters/bogmort1.jpg"> <img src="monsters/bogmort2.jpg"> </details>
+<details><summary>Screenshots (Bogmort). </summary> <img src="img/monsters/bogmort1.jpg"> <img src="img/monsters/bogmort2.jpg"> </details>
 
 | 2 | [SKY CITY - Markarth Rising.](https://www.nexusmods.com/skyrimspecialedition/mods/22482) | Overhaul of Markarth. | todo, russian translation available |
 | Total in this category: | 2 mods | | |
@@ -259,7 +256,7 @@ Tested and discarded:
 | [Haugbui - A Draugr Overhaul.](https://www.nexusmods.com/skyrimspecialedition/mods/26188) | A lightweight overhaul providing balance adjustments, new items, unique boss designs, and some more variants to the draugr enemies. | [Haugbui - A Draugr Overhaul SPANISH by Jaume.](https://www.nexusmods.com/skyrimspecialedition/mods/105396/) |
 | [Giants Overhaul- Mihail Monsters and Animals (SE-AE version).](https://www.nexusmods.com/skyrimspecialedition/mods/98581) | Complete overhaul of the vanilla Giants, diversifying the appearance of the males, and adding several variants of Giantesses and also a juvenile version. It never made sense that all Giants were male and looked exactly the same, so this mod is here to solve this problem once and for all. |[Giants Overhaul (se-ae) SPANISH by Jaume](https://www.nexusmods.com/skyrimspecialedition/mods/105400/) |
 
-<details><summary>Screenshots (Bogmort). </summary> <img src="monsters/bogmort1.jpg"> <img src="monsters/bogmort2.jpg"> </details>
+<details><summary>Screenshots (Bogmort). </summary> <img src="img/monsters/bogmort1.jpg"> <img src="img/monsters/bogmort2.jpg"> </details>
 
 # Weather / fog / fogs / mists
 
@@ -285,7 +282,7 @@ Tested and discarded:
 | [Fluffworks (Fluffy Animals) - Domestic Goat with Bell.](https://www.nexusmods.com/skyrimspecialedition/mods/64744) | Not needed. |
 | [Bears of the North.](https://www.nexusmods.com/skyrimspecialedition/mods/47541) | Visual overhaul of the bears of Skyrim. Bigger, badder bears fit for the harsh northern lands they roam. | [Bears of the North Spanish by xlwarrior.](https://www.nexusmods.com/skyrimspecialedition/mods/47691) |
 
-<details><summary>Screenshots. </summary> <img src="animals/witcher_horse_expansion1.jpg"> <img src="animals/witcher_horse_expansion2.jpg"> <img src="animals/witcher_horse_expansion4.jpg"> <img src="animals/witcher_horse_expansion7.jpg"> <img src="animals/witcher_horse_expansion9.jpg"> <img src="preview/herds/1.jpg"/> </details>
+<details><summary>Screenshots. </summary> <img src="img/animals/witcher_horse_expansion1.jpg"> <img src="img/animals/witcher_horse_expansion2.jpg"> <img src="img/animals/witcher_horse_expansion4.jpg"> <img src="img/animals/witcher_horse_expansion7.jpg"> <img src="img/animals/witcher_horse_expansion9.jpg">
 
 # Northbourne NPCs
 
@@ -300,7 +297,7 @@ Tested and discarded:
 |----------|----------|----------|
 | [Pandorable's NPCs (FEMALES, USSEP).](https://www.nexusmods.com/skyrimspecialedition/mods/19012) (A visual overhaul of 85 female NPCs). | [Pandorable's NPCs - Spanish Translation (FEMALES, USSEP).](https://www.nexusmods.com/skyrimspecialedition/mods/101061) |
 
-<details><summary>Screenshots example (here you have Zaria and Aduri Sarethi). </summary> <img src="npcs/pandorables/zaria_aduri-sarethi.jpg"> </details>
+<details><summary>Screenshots example (here you have Zaria and Aduri Sarethi). </summary> <img src="img/npcs/pandorables/zaria_aduri-sarethi.jpg"> </details>
 
 | Number | Mod | Brief explanation | Spanish translation | Video review |
 |----------|----------|----------|----------|----------|
@@ -310,7 +307,7 @@ Tested and discarded:
 | 4 | [RS Children Overhaul.](https://www.nexusmods.com/skyrimspecialedition/mods/2650) | Spanish translation marked redundant by Vortex. | :tv: todo |
 | 5 | [Dibella's Blessing.](https://www.nexusmods.com/skyrimspecialedition/mods/82606) (Apparance overhaul for 233 female characters from Skyrim). | [Dibella's Blessing - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/83704) | :tv: todo |
 
-<details><summary>Screenshots example for Dibella's Blessing (here you have Bothela, Eola, Hroki, Marise, Karliah and Voldsea) </summary> <img src="npcs/dibellas/markarth_bothela_eola.jpg"> <img src="npcs/dibellas/hroki_marise.jpg"> <img src="npcs/dibellas/karliah_voldsea.jpg"> </details>
+<details><summary>Screenshots example for Dibella's Blessing (here you have Bothela, Eola, Hroki, Marise, Karliah and Voldsea) </summary> <img src="img/npcs/dibellas/markarth_bothela_eola.jpg"> <img src="img/npcs/dibellas/hroki_marise.jpg"> <img src="img/npcs/dibellas/karliah_voldsea.jpg"> </details>
 
 | Number | Mod | Brief explanation | Spanish translation | Video review |
 |----------|----------|----------|----------|----------|
@@ -334,11 +331,6 @@ Tested and discarded:
 
 | Number | Mod | Brief explanation | Spanish translation | Video review |
 |----------|----------|----------|----------|----------|
-| 1 | [Folkvangr - Grass and Landscape Overhaul.](https://www.nexusmods.com/skyrimspecialedition/mods/44899) | - | Not needed. | :tv: todo |
-| 2 | [Kemper's Lavender Field Tundra (RED VERSION)](https://www.nexusmods.com/skyrimspecialedition/mods/104103) | - | Not needed. | :tv: todo |
-| 3 | [Kempers Lavender Tundra - Folkvangr Patch](https://www.nexusmods.com/skyrimspecialedition/mods/105128) | - | Not needed. | :tv: todo |
-
-<details><summary>Screenshots example for Folkvangr </summary> <img src="flora/folkvangr1.jpg"> <img src="flora/folkvangr2.jpg"> <img src="flora/folkvangr3.jpg"> <img src="flora/folkvangr4.jpg"> </details>
 
 # Animations (OAR replaces DAR and it's fully compatible with DAR animations)
 
@@ -398,7 +390,7 @@ Tested and discarded:
 
 # Base Object Swapper (BOS)
 
-<img src="base_object_swapper/logo.jpg">
+<img src="img/base_object_swapper/logo.jpg">
 
 | Number | Mod | Brief explanation | Spanish translation | Video review |
 |----------|----------|----------|----------|----------|
@@ -512,7 +504,7 @@ Good video reviewing a lot of audio mods: :tv: [The Best Audio Mods for Skyrim](
 | [Gallows of Skyrim SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/26542) | [Gallows of Skyrim SSE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/37513) |
 | [Skyrim Battle Aftermath SE.](https://www.nexusmods.com/skyrimspecialedition/mods/4742) | [Skyrim Battle Aftermath SE - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/50628) |
 
-<details><summary>Screenshots. </summary> <img src="preview/gallows/4.jpg"/> </details>
+<details><summary>Screenshots. </summary> <img src="img/preview/gallows/4.jpg"/> </details>
 
 # Towers and Ruins
 
@@ -528,7 +520,7 @@ Good video reviewing a lot of audio mods: :tv: [The Best Audio Mods for Skyrim](
 |----------|----------|----------|
 | [Ryn's Azura's Shrine (Flagged as ESL).](https://www.nexusmods.com/skyrimspecialedition/mods/86592) (A large overhaul of the Azura's Shrine area and a new dungeon) | [Ryn's Azura's Shrine - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/88621) |
 
-<details><summary>Screenshots. </summary> <img src="preview/ryn_azuras/1.jpg"/> </details>
+<details><summary>Screenshots. </summary> <img src="img/preview/ryn_azuras/1.jpg"/> </details>
 
 # Collectibles
 
@@ -539,7 +531,7 @@ Good video reviewing a lot of audio mods: :tv: [The Best Audio Mods for Skyrim](
 | [New Treasure Hunt SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/19469) ((Adds 13 new hand-drawn treasure maps and treasures hidden across Skyrim SE.) | [New Treasure Hunt SSE. - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/85024) |
 | [Each Stone of Barenziah Gives You a Bonus (ESLified).](https://www.nexusmods.com/skyrimspecialedition/mods/37122) | Not needed. |
 
-<details><summary>Screenshots. </summary> <img src="collectibles/dolls1.jpg"/> <img src="collectibles/dolls2.jpg"/> <img src="collectibles/dolls3.jpg"/> <img src="collectibles/dolls4.jpg"/> <img src="collectibles/dolls5.jpg"/> <img src="collectibles/dolls6.jpg"/> <img src="collectibles/dolls7.jpg"/> </details>
+<details><summary>Screenshots. </summary> <img src="img/collectibles/dolls1.jpg"/> <img src="img/collectibles/dolls2.jpg"/> <img src="img/collectibles/dolls3.jpg"/> <img src="img/collectibles/dolls4.jpg"/> <img src="img/collectibles/dolls5.jpg"/> <img src="img/collectibles/dolls6.jpg"/> <img src="img/collectibles/dolls7.jpg"/> </details>
 
 # Quests
 
@@ -565,14 +557,7 @@ Good video reviewing a lot of audio mods: :tv: [The Best Audio Mods for Skyrim](
 | [New Dwarven Sphere Centurion Female.](https://www.nexusmods.com/skyrimspecialedition/mods/121381) | todo | ? |
 | [New Dwarven Centurion Female SFW.](https://www.nexusmods.com/skyrimspecialedition/mods/86707) | todo | todo |
 
-<details><summary>Screenshots.</summary> <img src="preview/statuettes/5.jpg"/>  <img src="adults/new_mara_statue_SE1.jpg"/> <img src="adults/new_mara_statue_SE1.jpg"/> <img src="adults/new_mara_statue_SE2.jpg> <img src="adults/new_mara_statue_SE3.jpg> <img src="adults/new_mara_statue_SE4.jpg> <img src="adults/new_mara_statue_SE5.jpg> <img src="adults/new_mara_statue_SE6.jpg> <img src="adults/new_mara_statue_SE7.jpg> <img src="adults/new_mara_statue_SE8.jpg> <img src="adults/new_gray_fox_bust1.jpg"> <img src="adults/new_gray_fox_bust2.jpg"> <img src="adults/new_gray_fox_bust3.jpg"> <img src="adults/new_gray_fox_bust4.jpg"> <img src="adults/new_gray_fox_bust5.jpg"> <img src="adults/new_gray_fox_bust6.jpg"> <img src="adults/new_gray_fox_bust7.jpg"> <img src="adults/new_gray_fox_bust8.jpg"> <img src="adults/new_gray_fox_bust9.jpg"> </details>
-
-# skyrim_phoenix
-My new modlist after modpocalypse unleashed by Bethesda 5/12/2023.
-
-My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing a [collection](https://next.nexusmods.com/) on [Nexusmods](https://www.nexusmods.com/skyrimspecialedition) with this modlist. Feel free to use the "Adult (NSFW)" section or not, please. Contact me at jaume.alcazo@gmail.com
-
-<img src="cover.jpg">
+<details><summary>Screenshots.</summary> <img src="img/preview/statuettes/5.jpg"/>  <img src="adults/new_mara_statue_SE1.jpg"/> <img src="img/adults/new_mara_statue_SE1.jpg"/> <img src="adults/new_mara_statue_SE2.jpg> <img src="img/adults/new_mara_statue_SE3.jpg> <img src="adults/new_mara_statue_SE4.jpg> <img src="img/adults/new_mara_statue_SE5.jpg> <img src="adults/new_mara_statue_SE6.jpg> <img src="img/adults/new_mara_statue_SE7.jpg> <img 
 
 # WARNINGS, Jaume
 
