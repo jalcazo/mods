@@ -565,19 +565,6 @@ Good video reviewing a lot of audio mods: :tv: [The Best Audio Mods for Skyrim](
 |----------|----------|
 | Problem | If your character can't move (not due to overencumbrance), open console (key next to 1) type "tfc" fly with the camera for a while, sae save WHILE in the flying camera, load, type tfc in console again. Solved! Jaume 8/12/23 |
 
-# Essential (many mods need these)
-
-| Number | Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|----------|
-| 1 | Skyrim Script Extender (SKSE64). (be sure to check if you install the version for [Steam](https://store.steampowered.com/sub/626153/) or [GOG](https://www.gog.com/en/game/the_elder_scrolls_v_skyrim_anniversary_edition)!). | Essential. A lot of good mods use this as a base. | Not needed. |
-| 2 | [Address Library for SKSE Plugins.](https://www.nexusmods.com/skyrimspecialedition/mods/32444) | Be sure to pick Anniversary Edition AE or Special Edition SE! | Not needed. |
-| 3 | [Unofficial Skyrim Special Edition Patch - USSEP.](https://www.nexusmods.com/skyrimspecialedition/mods/266) | Corrects a lot of bugs. | [USSEP Spanish con Voces](https://www.nexusmods.com/skyrimspecialedition/mods/5334?tab=files) (actualizado 6 julio 2023). |
-| 4 | [Alternate Start - Live Another Life - SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/272) | Alternative starts, skip the standard vanilla or do it, as you wish. | [Alternate Start SPANISH supercento]([https://www.nexusmods.com/skyrimspecialedition/mods/65264] Voz de la estatua de Mara doblada también. Funciona. |
-| 5 | [CBBE Body.](https://www.nexusmods.com/skyrimspecialedition/mods/198) | Nice body, UNP alternative gives nudes when looting females (not males), and it's quite un-immersive if you are doing an SFW playthrough. | Not needed. |
-| 6 | CBBE AE-CC Outfits. (same page as CBBE Body) | Includes all Anniversary Edition/Creation Club outfits using the "CBBE Curvy (Outfit)" preset and BodySlide files. No "body physics" as almost all outfits part of it shouldn't have it anyway. Use BodySlide to apply other body presets yourself. | Not needed. |
-| 7 | [PapyrusUtil SE - Modders Scripting Utility Functions.](https://www.nexusmods.com/skyrimspecialedition/mods/13048) | Adds several new scripts with native functions that provide various conveniences related to data storage and other misc functions to the scripter/modder.  | Not needed. |
-| Total in this category: | 7 mods | | |
-
 # Menus
 
 | Number | Mod | Brief explanation | Spanish translation |
